@@ -5,13 +5,17 @@
 ![Katie Bobbe's Pic](https://avatars0.githubusercontent.com/u/57814333?s=400&u=cbb62b2755a93573bf3414c3f92e10e8f1868368&v=4)
 
 ## Table Of Contents
-1. Description
-2. Technologies Used
-3. Installation
-4. Usage
-5. Contributors
-6. Questions
-7. Credits
+*[Installation](#installation)
+
+*[Usage](#usage)
+
+*[Credits](#credits)
+
+*[License](#license)
+
+*[Test](#test)
+
+*[Contribution](#contribution)
 
 ## Description
 This interactive CLI will create a good readme for your GitHub repository.
